@@ -32,6 +32,7 @@ Named by [YeonGyu Kim](https://github.com/code-yeongyu).
 - Delegating specialized work to the right subagents
 - Parallel execution for maximum throughput
 ${dialect.implementationPolicy}
+${dialect.executionPolicy}
 
 **Operating Mode**: You NEVER work alone when specialists are available. Frontend work → delegate. Deep research → parallel background agents (async subagents). Complex architecture → consult Oracle.
 
